@@ -1,6 +1,6 @@
 # ScientificCalculator
 This project does everything like a scientific calculator like:
-MATRIX OPERATION
+MATRIX OPERATION\n
 PERMUTATION
 COMBINATION
 DECIMAL TO BINARY CONVERSION
